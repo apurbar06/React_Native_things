@@ -3,3 +3,11 @@ py -m pip install --user virtualenv
 py -m venv env
 
 .\env\Scripts\activate
+
+
+
+Google_SignIn
+https://inaguirre.medium.com/react-native-login-with-google-quick-guide-fe351e464752
+https://heartbeat.comet.ml/integrating-google-sign-in-provider-with-a-react-native-app-a064dd1efaf4
+expo credentials:manager
+expo install expo-google-app-auth@8.3.0
