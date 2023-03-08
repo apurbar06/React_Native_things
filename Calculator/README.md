@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="demo.jpeg" width="350">
+  <img src="demo.jpeg" width="200">
 </p>
 
 <br>
